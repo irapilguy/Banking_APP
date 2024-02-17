@@ -1,0 +1,69 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build folder
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio specific files
+*.sdf
+*.opensdf
+*.sln.docstates
+*.pdb
+*.idb
+*.ipch
+*.suo
+*.ilk
+*.obj
+*.pch
+*.rsp
+*.res
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.vspscc
+*.vssscc
+*.ncb
+*.aps
+*.log
+*.vsixmanifest
+*.vcxproj.filters
+*.csproj.user
+*.vcxproj.user
+
+# User-specific files
+*.user
+*.aps
+*.ncb
+*.suo
+*.vspscc
+*.vssscc
